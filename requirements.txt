@@ -1,0 +1,12 @@
+beautifulsoup4==4.12.3
+pandas==2.2.2
+requests==2.31.0
+lxml==5.2.1
+
+##✅ Why These Libraries?
+
+Library	Purpose
+beautifulsoup4 :	For parsing HTML and scraping content
+pandas :	To store, manipulate, and export scraped data
+requests :	To fetch the HTML content from web pages
+lxml :	A fast parser required for some read_html() and parsing operations
